@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://c.tenor.com/_vqZn008e0MAAAAd/starry-night-clouds.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    margin-left: 1em;
+}
